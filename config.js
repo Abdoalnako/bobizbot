@@ -8,28 +8,28 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['573225236629', '💫 Mystic - Collaborator 4 💫', true],
-  ['593959425714', '💫 Mystic - Collaborator 5 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 6 💫', true],  
-  ['5212411719888', '💫 Mystic - Collaborator 7 💫', true],	
-  ['593968585283'],
-  ['5219993404349'],
-  //['593968585383'],	
-  ['5219996125657']
+  ['212605784394', '👑 Noureddine ouafy👑', true],
+  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 1 💫', true],
+  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 💫', true],
+  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 💫', true],
+  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 💫', true],
+  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 💫', true],
+  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 💫', true],  
+  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 💫', true],	
+  ['212605784394'],
+  ['212605784394'],
+  //['212605784394'],	
+  ['212605784394']
 ] 
 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = ['212605784394'] 
+global.prems = ['212605784394'] 
 
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
+global.packname = 'ʙᴏʙɪᴢ ʙᴏᴛ By Noureddine ouafy'
+global.author = 'ʙᴏʙɪᴢ ʙᴏᴛ By Noureddine ouafy'
+global.wm = 'ʙᴏʙɪᴢ ʙᴏᴛ By Noureddine ouafy'
+global.igfg = 'ʙᴏʙɪᴢ ʙᴏᴛ By Noureddine ouafy'
+global.wait = '*[❗] انتظر لحظة ...*'
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 // 'fiktod' 'BF39D349845E' '675e34de8a' '0b917b905e6f'
@@ -430,15 +430,15 @@ global.mes = d.toLocaleDateString('es', { month: 'long' })
 global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`
-global.gt = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.mysticbot = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
-global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.nomorown = '5219993404349'
+global.wm2 = `▸ ${dia} ${fecha}\n▸ ʙᴏʙɪᴢ ʙᴏᴛ By Noureddine ouafy`
+global.gt = '★ʙᴏʙɪᴢ ʙᴏᴛ By Noureddine ouafy★'
+global.mysticbot = '★ʙᴏʙɪᴢ ʙᴏᴛ By Noureddine ouafy★'
+global.md = 'https://instagram.com/noureddine_ouafy'
+global.mysticbot = 'https://instagram.com/noureddine_ouafy'
+global.waitt = '*[❗] انتظر لحظة...*'
+global.waittt = '*[❗] انتظر لحظة رجاء...*'
+global.waitttt = '*[❗] انتظر لحظة رجاء...*'
+global.nomorown = '212605784394'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––『'
 global.cmenub = '┊✦ '
@@ -453,8 +453,8 @@ global.htki = '*⭑•̩̩͙⊱•••• ☪*'
 global.htka = '*☪ ••••̩̩͙⊰•⭑*'
 global.comienzo = '• • ◕◕════'
 global.fin = '════◕◕ • •'
-global.botdate = `⫹⫺ Date :  ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}` //Asia/Jakarta
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('America/Los_Angeles').format('HH:mm:ss')}`//America/Los_Angeles
+global.botdate = `⫹⫺ Date :  ${moment.tz('Africa/Casablanca').format('DD/MM/YY')}` //Africa/Casablanca
+global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Africa/Casablanca').format('HH:mm:ss')}`//Africa/Casablanca
 global.fgif = {key: { participant : '0@s.whatsapp.net'}, message: { "videoMessage": { "title": wm, "h": `Hmm`, 'seconds': '999999999',  'gifPlayback': 'true',  'caption': bottime, 'jpegThumbnail': fs.readFileSync('./Menu.png')}}}
 global.multiplier = 99
 //*************************
