@@ -8,22 +8,22 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['212605784394', '👑 Noureddine ouafy👑', true],
-  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 1 💫', true],
-  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 💫', true],
-  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 💫', true],
-  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 💫', true],
-  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 💫', true],
-  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 💫', true],  
-  ['212605784394', '💫 ʙᴏʙɪᴢ ʙᴏᴛ 💫', true],	
-  ['212605784394'],
-  ['212605784394'],
-  //['212605784394'],	
-  ['212605784394']
+  ['201275658375', '👑 Draken👑', true],
+  ['201275658375', '💫 Draken💫', true],
+  ['201275658375', '💫 Draekn 💫', true],
+  ['201275658375', '💫 Draekn 💫', true],
+  ['201275658375', '💫 Draekn💫', true],
+  ['201275658375', '💫 Draekn 💫', true],
+  ['201275658375', '💫 Draekn💫', true],  
+  ['201275658375', '💫 Draken 💫', true],	
+  ['201275658375'],
+  ['201275658375'],
+  //['201275658375'],	
+  ['201275658375']
 ] 
 
-global.suittag = ['212605784394'] 
-global.prems = ['212605784394'] 
+global.suittag = ['201275658375'] 
+global.prems = ['201275658375'] 
 
 global.packname = 'ʙᴏʙɪᴢ ʙᴏᴛ By Noureddine ouafy'
 global.author = 'ʙᴏʙɪᴢ ʙᴏᴛ By Noureddine ouafy'
@@ -430,15 +430,15 @@ global.mes = d.toLocaleDateString('es', { month: 'long' })
 global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ ʙᴏʙɪᴢ ʙᴏᴛ By Noureddine ouafy`
-global.gt = '★ʙᴏʙɪᴢ ʙᴏᴛ By Noureddine ouafy★'
-global.mysticbot = '★ʙᴏʙɪᴢ ʙᴏᴛ By Noureddine ouafy★'
-global.md = 'https://instagram.com/noureddine_ouafy'
-global.mysticbot = 'https://instagram.com/noureddine_ouafy'
+global.wm2 = `▸ ${dia} ${fecha}\n▸ Draken bot by Draken 
+global.gt = '★Draken bot by Draken★'
+global.mysticbot = '★Draken bot by Draken ★'
+global.md = 'https://instagram.com/virus_forever_101'
+global.mysticbot = 'https://instagram.com/virus_forever_101'
 global.waitt = '*[❗] انتظر لحظة...*'
 global.waittt = '*[❗] انتظر لحظة رجاء...*'
 global.waitttt = '*[❗] انتظر لحظة رجاء...*'
-global.nomorown = '212605784394'
+global.nomorown = '201275658375'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––『'
 global.cmenub = '┊✦ '
